@@ -622,11 +622,11 @@ footer{
 } 
 
 
-.footer_logo--image
+#footer_logo
 {
     width: 80px;
     height: 80px;
-filter: invert(100%);
+    filter: invert(100%);
 }
 
 .footer__social--list{
